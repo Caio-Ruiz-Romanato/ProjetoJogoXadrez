@@ -2,7 +2,6 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" width="100">
-  <img src="https://img.icons8.com/ios/452/chess.png" alt="Chess Icon" width="100">
 </div>
 
 ## Sobre o Projeto
